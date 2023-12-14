@@ -1,0 +1,41 @@
+*
+{
+    border: 1px solid black;
+ 
+font-family: 'Nunito', sans-serif;
+}
+h1
+{
+    text-align: center;
+margin: 20px;
+padding: 70px;
+text-decoration: underline;
+text-transform: uppercase;
+text-decoration-color: black;
+background:radial-gradient(blue,red,yellow,red,green,blue,red,yellow,red,green,blue,red,yellow,red,green,blue,red,yellow,red,green,red,yellow,red,green);
+opacity: 0.6
+}
+p
+{
+    text-transform: capitalize;
+}
+div
+{
+ 
+}
+.menu li
+{
+    display: inline;
+ text-transform: capitalize;
+}
+.menu
+{
+        float: RIGHT;
+
+}
+a
+{
+    background-color: YELLOW;
+    text-decoration: NONE;
+   
+}
